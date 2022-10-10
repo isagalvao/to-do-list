@@ -29,7 +29,7 @@ O app contem as seguintes funcionalidades:
 - [x] As tarefas possuem data de criação;
 
 ## 📝🖊️ Usando a lista de tarefas:
-https://to-do-list-amber-alpha.vercel.app/
+https://to-do-list-isagalvao.vercel.app/
 
 ## 🤝 Colaboradores
 
