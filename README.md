@@ -1,27 +1,18 @@
-# Começamos com Create React App
+#### `Tasks`
 
 Este projeto foi iniciado com [Create React App](https://github.com/facebook/create-react-app).
 
-você pode executar:
+### Você pode executar o sistema com:
 
 ### `npm start`
 
 Para Executar o app em modo de desenvolvimento.\
 Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo em seu navegador..
 
-### `npm test`
-
-Inicia o executor de teste.\
-
 ### `npm run build`
 
-Compila o aplicativo para produção na pasta `build`.\
+Compila o aplicativo para produção na pasta build.\
 Ele agrupa corretamente o React no modo de produção e otimiza a compilação para o melhor desempenho.
-
-### `npm run eject`
-
-\*\*Esta é uma operação unidirecional. Depois de 'ejetar', você não pode voltar!
-Este comando removerá a dependência de compilação única do seu projeto.
 
 ### Processo de criação do projeto:
 
