@@ -19,7 +19,7 @@ Ele agrupa corretamente o React no modo de produção e otimiza a compilação p
 - [x] Criação das funcionalidades com React;
 - [x] Criação estilo Css;
 
-O app contem as seguintes funcionalidades:
+### O app contem as seguintes funcionalidades:
 
 - [x] Adiciona uma nova tarefa a lista;
 - [x] Marcar a tarefa como concluída;
