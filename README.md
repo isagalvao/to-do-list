@@ -16,8 +16,8 @@ Ele agrupa corretamente o React no modo de produção e otimiza a compilação p
 
 ### Processo de criação do projeto:
 
-- [x] Criação das funcionalidades com React
-- [x] Criação estilo Css
+- [x] Criação das funcionalidades com React;
+- [x] Criação estilo Css;
 
 O app contem as seguintes funcionalidades:
 
