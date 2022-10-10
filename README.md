@@ -14,12 +14,12 @@ Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo em seu na
 Compila o aplicativo para produção na pasta build.\
 Ele agrupa corretamente o React no modo de produção e otimiza a compilação para o melhor desempenho.
 
-### Processo de criação do projeto:
+### `Processo de criação do projeto:`
 
 - [x] Criação das funcionalidades com React;
 - [x] Criação estilo Css;
 
-### O app contem as seguintes funcionalidades:
+### `O app contem as seguintes funcionalidades:`
 
 - [x] Adiciona uma nova tarefa a lista;
 - [x] Marcar a tarefa como concluída;
