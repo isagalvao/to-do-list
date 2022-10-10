@@ -23,20 +23,35 @@ Ele agrupa corretamente o React no modo de produção e otimiza a compilação p
 \*\*Esta é uma operação unidirecional. Depois de 'ejetar', você não pode voltar!
 Este comando removerá a dependência de compilação única do seu projeto.
 
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
 ### Processo de criação do projeto:
 
-¢ Criação das funcionalidades com React
-¢ Criação estilo Css
+- [x] Criação das funcionalidades com React
+- [x] Criação estilo Css
 
 O app contem as seguintes funcionalidades:
 
-¢ Adiciona uma nova tarefa a lista;
-¢ Marcar a tarefa como concluída;
-¢ Mostra todas as tarefas (concluídas ou não);
-¢ Permite a editação das tarefas;
-¢ Permite a remoção das tarefas;
-¢ As tarefas possuem data de criação;
+- [x] Adiciona uma nova tarefa a lista;
+- [x] Marcar a tarefa como concluída;
+- [x] Mostra todas as tarefas (concluídas ou não);
+- [x] Permite a editação das tarefas;
+- [x] Permite a remoção das tarefas;
+- [x] As tarefas possuem data de criação;
+
+## 📝🖊️ Usando a lista de tarefas:
+https://to-do-list-amber-alpha.vercel.app/
+
+## 🤝 Colaboradores
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/102769431?v=4" width="100px;" alt="Foto da Isabelle Galvão no GitHub"/><br>
+        <sub>
+          <b>Isabelle Galvão</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
